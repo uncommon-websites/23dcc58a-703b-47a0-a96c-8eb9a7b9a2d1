@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Find the right therapist for your child"
+	subtitle="Matched in 48 hours. Covered by insurance."
+	imageSrc="/generated/image-a-cheerful-family-scene-featuring-a-pare.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by families and schools nationwide"
+	logoUrls={[
+		'https://cdn.brandfetch.io/marriott.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/khanacademy.org/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/starbucks.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/target.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
