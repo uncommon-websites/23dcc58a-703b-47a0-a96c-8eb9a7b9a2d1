@@ -26,7 +26,7 @@
 <SecondaryHero
 	title="Therapy that grows with them"
 	subtitle="Expert mental health support for every age"
-	imageSrc="/generated/image-a-diverse-group-of-mental-health-profess.webp"
+	imageSrc="/generated/image-a-mother-and-her-young-daughter-are-sitt.webp"
 	showCredibility={true}
 	rating={4.94}
 	improvementRate={89}
@@ -47,7 +47,6 @@
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
-	generating
 	stakeholderType="team"
 	title="Our team."
 	subtitle="Your partners in innovation."
@@ -74,7 +73,6 @@
 />
 
 <StakeholderGrid
-	generating
 	stakeholderType="investor"
 	title="Backed by the best."
 	subtitle="Point Nine, TSIC and others"
